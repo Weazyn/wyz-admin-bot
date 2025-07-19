@@ -20,4 +20,5 @@ E-Mail: buissnesswyz@gmail.com
 
 Discord: Weazyn
 
+>[!NOTE]
 >Zuletzt aktualisiert: 18. Juli 2025
