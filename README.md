@@ -1,6 +1,39 @@
 # wyz-admin-bot
 Admin Moderationsbot für Discord
 
+# Datenschutzerklärung (Privacy Policy)
+
+## 1. Erhobene Daten
+Der Bot kann folgende Daten verarbeiten:
+
+- Discord-User-IDs
+- Server-IDs
+- Channel-IDs
+- Rollen-IDs
+- Ausgeführte Befehle Nachrichteninhalte (nur zur Befehlsverarbeitung, keine dauerhafte Speicherung)
+
+## 2. Datenverarbeitung und Speicherung
+Gespeicherte Daten werden nicht an Dritte weitergegeben. Sie dienen ausschließlich der Verwaltung des Discord-Servers.
+
+## 3. Datensicherheit
+Die Daten werden auf gesicherten Systemen gespeichert. Es erfolgt keine Weitergabe an Dritte oder externe APIs ohne ausdrückliche Notwendigkeit.
+
+## 4. Rechte der Nutzer
+Auf Anfrage können Nutzer:
+
+- Auskunft über gespeicherte Daten erhalten 
+- Die Löschung ihrer Daten verlangen 
+
+Bitte kontaktiere uns dafür über die unten angegebenen Wege.
+
+## 5. Kontakt
+Bei Fragen oder Anliegen:
+E-Mail: buissnesswyz@gmail.com
+Discord: Weazyn
+
+>[!NOTE]
+>Zuletzt aktualisiert: 18. Juli 2025
+
 # Nutzungsbedingungen (Terms of Service)
 
 ## 1. Nutzung des Bots
