@@ -1,6 +1,11 @@
 # wyz-admin-bot
 Admin Moderationsbot für Discord
+---
 
+# Platzhalter
+hier soll später was dazu kommen
+
+---
 # Datenschutzerklärung (Privacy Policy)
 
 ## 1. Erhobene Daten
@@ -29,12 +34,13 @@ Bitte kontaktiere uns dafür über die unten angegebenen Wege.
 ## 5. Kontakt
 Bei Fragen oder Anliegen:
 
-E-Mail: buissnesswyz@gmail.com
+**E-Mail** buissnesswyz@gmail.com
 
-Discord: Weazyn
+**Discord** Weazyn
 
 >[!NOTE]
 >Zuletzt aktualisiert: 18. Juli 2025
+---
 
 # Nutzungsbedingungen (Terms of Service)
 
@@ -54,8 +60,8 @@ Der Bot wird „wie gesehen“ bereitgestellt, ohne Gewährleistung oder Anspruc
 
 Bei Fragen oder rechtlichen Anliegen:
 
-E-Mail: buissnesswyz@gmail.com
+**E-Mail** buissnesswyz@gmail.com
 
-Discord: Weazyn
+**Discord** Weazyn
 
 >Zuletzt aktualisiert: 18. Juli 2025
