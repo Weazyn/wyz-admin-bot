@@ -28,7 +28,9 @@ Bitte kontaktiere uns dafür über die unten angegebenen Wege.
 
 ## 5. Kontakt
 Bei Fragen oder Anliegen:
+
 E-Mail: buissnesswyz@gmail.com
+
 Discord: Weazyn
 
 >[!NOTE]
