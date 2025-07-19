@@ -1,11 +1,9 @@
-# wyz-admin-bot
-Admin Moderationsbot für Discord
----
+# WYZ Admin Bot
+Der WYZ Discord Administrationsbot
 
 # Platzhalter
 hier soll später was dazu kommen
 
----
 # Datenschutzerklärung (Privacy Policy)
 
 ## 1. Erhobene Daten
@@ -40,7 +38,6 @@ Bei Fragen oder Anliegen:
 
 >[!NOTE]
 >Zuletzt aktualisiert: 18. Juli 2025
----
 
 # Nutzungsbedingungen (Terms of Service)
 
