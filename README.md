@@ -1,8 +1,8 @@
 # WYZ Admin Bot
 Der WYZ Discord Administrationsbot
 
-# Platzhalter
-hier soll später was dazu kommen
+# Einladungslink
+https://discord.com/oauth2/authorize?client_id=1367077216705445919
 
 # Datenschutzerklärung (Privacy Policy)
 
