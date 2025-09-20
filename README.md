@@ -1,5 +1,17 @@
 # WYZ Admin Bot
-Der WYZ Discord Administrationsbot
+Der Wyz-admin Bot ist ein Discord-Bot für Serveradministration, Moderation und Community-Management
+
+Funktionen:
+
+* Begrüßt neue Mitglieder automatisch im Willkommenskanal mit personalisierten Nachrichten, Emojis und Avatar.
+* Unterstützt Welcome-Panels mit Platzhaltern für Member, Server und Server-Owner.
+* Protokolliert bearbeitete Nachrichten und zeigt vorherigen sowie neuen Inhalt.
+* Protokolliert gelöschte Nachrichten und Massenlöschungen, inklusive Vorschau der letzten Nachrichten.
+* Loggt Admin-Aktionen: Banns, Unbanns, Kicks, Rollenänderungen und Nickname-Änderungen, inkl. Angabe des ausführenden Admins.
+* Loggt Server- und Channel-Änderungen
+* Unterstützt temporäre Sprachkanäle
+* Alle Logs und Nachrichten werden in übersichtlichen Embeds mit Farben und Emojis angezeigt.
+
 
 # Einladungslink
 https://discord.com/oauth2/authorize?client_id=1367077216705445919
