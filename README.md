@@ -7,9 +7,9 @@ Funktionen:
 * Unterstützt Welcome-Panels mit Platzhaltern für Member, Server und Server-Owner.
 * Protokolliert bearbeitete Nachrichten und zeigt vorherigen sowie neuen Inhalt.
 * Protokolliert gelöschte Nachrichten und Massenlöschungen, inklusive Vorschau der letzten Nachrichten.
-* Loggt Admin-Aktionen: Banns, Unbanns, Kicks, Rollenänderungen und Nickname-Änderungen, inkl. Angabe des ausführenden Admins.
-* Loggt Server- und Channel-Änderungen
-* Unterstützt temporäre Sprachkanäle
+* Loggt Admin-Aktionen: Banns, Unbanns, Kicks, Rollenänderungen und Nickname-Änderungen.
+* Loggt Server- und Channel-Änderungen.
+* Unterstützt temporäre Sprachkanäle.
 * Alle Logs und Nachrichten werden in übersichtlichen Embeds mit Farben und Emojis angezeigt.
 
 
