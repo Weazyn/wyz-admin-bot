@@ -1,4 +1,4 @@
-# WYZ Admin Bot
+# Modyx-DC-Bot
 Der Wyz-admin Bot ist ein Discord-Bot für Serveradministration, Moderation und Community-Management
 
 Funktionen:
