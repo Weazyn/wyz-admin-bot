@@ -1,5 +1,5 @@
 # Modyx-DC-Bot
-Der Modyx-Dc-Vot ist ein Discord-Bot für Serveradministration, Moderation und Community-Management
+Der Modyx-Dc-Bot ist ein Discord-Bot für Serveradministration, Moderation und Community-Management
 
 Funktionen:
 
@@ -54,7 +54,7 @@ Bei Fragen oder Anliegen:
 # Nutzungsbedingungen (Terms of Service)
 
 ## 1. Nutzung des Bots
-Mit dem Hinzufügen und Verwenden des Discord-Bots „Wyz Admin Bot“ erklärst du dich mit diesen Bedingungen einverstanden. Der Bot stellt Funktionen zur Serververwaltung bereit, darunter das Verarbeiten von Befehlen, Lesen von Nachrichteninhalten und Rollenverwaltung.
+Mit dem Hinzufügen und Verwenden des Discord-Bots „Modyx-DC-Bot“ erklärst du dich mit diesen Bedingungen einverstanden. Der Bot stellt Funktionen zur Serververwaltung bereit, darunter das Verarbeiten von Befehlen, Lesen von Nachrichteninhalten und Rollenverwaltung.
 
 ## 2. Verantwortlichkeit
 Die Verantwortung für den Einsatz des Bots liegt beim Server-Administrator. Missbräuchliche Verwendung, z. B. zur Belästigung oder Sammlung unerlaubter Daten, ist untersagt.
